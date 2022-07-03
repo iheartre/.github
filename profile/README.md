@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Diagram](/assets/images/diagram.png)
+![Diagram](.github/tree/main/profile/assets/images/diagram.png)

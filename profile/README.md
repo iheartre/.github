@@ -13,6 +13,6 @@ Oximeter data stream can be accessed
     - iHeart Connector streams real-time data via TCP socket to third party applications.
     - [iHeart Connector executable](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Binaries)
     - [iHeart Connector Visual Studio project](https://github.com/iheartre/iHeartConnectorWindows/tree/main/VisualStudioProject)
-    - [Matlab example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Matlab%20Example)
-    - [LabView example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/LabView%20Example)
-    - [Octave example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Octave%20Example)
+    - [Matlab example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Matlab%20Example) - reading oximeter data from iHeart Connector via TCP.
+    - [LabView example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/LabView%20Example) - reading oximeter data from iHeart Connector via TCP.
+    - [Octave example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Octave%20Example) - reading oximeter data from iHeart Connector via TCP.

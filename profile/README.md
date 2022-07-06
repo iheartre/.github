@@ -1,7 +1,6 @@
 # iHeart Oximeter Research Edition
-![Diagram](/profile/assets/images/diagram.png)
 
-Oximeter data stream can be accessed
+Oximeter data stream can be read
 
 - Directly via bulit-in or a USB Bluetooth adapter (Bluetooth V4 or higher)
     - [Python example](https://github.com/iheartre/Python)
@@ -16,3 +15,5 @@ Oximeter data stream can be accessed
     - [Matlab example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Matlab%20Example) - reading oximeter data from iHeart Connector via TCP.
     - [LabView example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/LabView%20Example) - reading oximeter data from iHeart Connector via TCP.
     - [Octave example](https://github.com/iheartre/iHeartConnectorWindows/tree/main/Octave%20Example) - reading oximeter data from iHeart Connector via TCP.
+
+![Diagram](/profile/assets/images/diagram.png)

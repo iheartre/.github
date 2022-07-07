@@ -1,6 +1,6 @@
-# iHeart Oximeter Research Edition
+# iHeart BLE Oximeter Research Edition
 
-Oximeter data stream can be read
+iHeart BLE Oximeter data stream can be read
 
 - Directly via bulit-in or a USB Bluetooth adapter (Bluetooth V4 or higher)
     - [Python example](https://github.com/iheartre/Python)
